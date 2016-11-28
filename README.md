@@ -24,7 +24,111 @@ requests are welcome, though forking your own repo likely makes more sense.
     the article--can be heard on Spotify
     [here](https://open.spotify.com/album/30juFhWr8RPtDT75soYnJb).
 
+## Life/Philosophy
+
+* [Behind Our Anxiety, the Fear of Being
+    Unneeded](http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html?_r=0)
+    by the Dalai Lama and Arthur C. Brooks
+
+    The Dalai Lama writes about why he believes there is such discontent and
+    unhappiness in a remarkably safe world.
+
+* [The Downside of Being
+    Happy](https://www.washingtonpost.com/news/wonk/wp/2016/07/25/why-happiness-might-be-getting-in-the-way-of-your-artistic-brilliance/)
+    by Ana Swanson
+
+    In many ways, it seems that a life full of eternal, unwavering happiness
+    would be utopian. However, there are some advantages to experiencing the
+    full range of human emotion.
+
+* [Google’s former happiness guru developed a three-second brain exercise for
+    finding joy](http://qz.com/818998/googles-former-happiness-guru-developed-a-three-second-brain-exercise-for-finding-joy/)
+    by Lila MacLellan
+
+    It can be easy to overwhelmed, but it can also be remarkably easy to find
+    small moments of happiness.
+
+* [Habits of Highly Mathematical
+    People](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e#.nznvwv7cj)
+    by Jeremy Kun
+
+    A common question in math classrooms across the country is "When will I ever
+    use this?" Mr. Kun describes several ways in which a mathematical education
+    comes in handy in life (even if the specific problems encountered in the
+    classroom don't seem entirely relevant).
+
+* [How to be mediocre and be happy with
+    yourself](http://www.bbc.com/news/business-37108240) by Manuela Saragosa
+
+    There can be a lot of pressure to be exceptional. While I think that's a
+    largely admirable goal, it's not feasible at scale. This is an interesting
+    read that talks about both exceptionalism and mediocrity.
+
+* [How Trees Calm
+    Us](http://www.newyorker.com/tech/elements/what-is-a-tree-worth) by Alex
+    Hutchinson
+
+    I'm always amazed by how much my mood improves when I'm working in a room
+    with a window. This article details some of the ways that trees and other
+    aspects of nature can impact us.
+
+* [I Used to Be a Human
+    Being](http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html)
+    by Andrew Sullivan
+
+    No matter what metric I use, I've never been able to get over just how
+    *huge* the Internet is. From the billions of users to the millions of
+    exabytes of data to the innumerable number of things I can inform--or
+    misinform--myself about with only a few keystrokes, its impact and
+    potential is mind-boggling. Unfortunately, that impact isn't always a good
+    thing. Mr. Sullivan talks about the positive and negative impacts that
+    "living-in-the-web" had on his life and how he attempted to find balance
+    between his lives on and off the web.
+
+* [If you’re 30% through your life, you’re likely 90% through your best
+    relationships](http://qz.com/572284/the-tail-end/?utm_source=parVC) by Tim
+    Urban
+
+    This details a great number of ways to measure the passing of one's life. At
+    first, it can be a bit disconcerting, but it gave me a great deal to reflect
+    upon.
+
+* [Why It Doesn't Pay to be a
+    People-Pleaser](http://greatergood.berkeley.edu/article/item/why_it_doesnt_pay_to_be_a_people_pleaser)
+    by Christine Carter
+
+    I feel that there's a lot of applicable wisdom in this article. In
+    particular, recognizing the difference between pleasing and helping people
+    has been very helpful to me.
+
 ## Technology
+
+* [Being a Developer After
+    40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.ez548ytd9)
+    by Adrian Kosmaczewski
+
+    While I've a ways to go before I'm able to write a similarly titled article,
+    I found this to be a very illuminating read. Mr. Kosmaczewski talks about
+    the growth of his own career and shares some advice on what has helped him
+    find success and satisfaction.
+
+* [(Calculus) is at the Heart of the STEM Gender
+    Gap](http://www.huffingtonpost.com/entry/calculus-stem-gender-gap_us_57a1b9eee4b0e2e15eb7df83)
+    by Dominique Mosbergen
+
+    This article summarizes research that details at least one reason why women
+    are underrepresented in STEM professions. It contains some very interesting
+    information that I haven't seen elsewhere.
+
+* [How Technology Hijacks People's
+    Minds](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.r3d5qvcto)
+    by Tristan Harris
+
+    Mr. Harris, a former design ethicist at Google, details several ways that a
+    piece of software influences its users that are easy to miss. Personally, I
+    think this should be required reading for anyone that develops software for
+    non-personal use. It's also fascinating from the point of view of anyone
+    that uses software (like you must be if you're reading this note).
 
 * [The Night
     Watch](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf) by
@@ -37,25 +141,6 @@ requests are welcome, though forking your own repo likely makes more sense.
     Obsession](https://blog.dscout.com/mobile-touches) by Michael Winnick
 
     Some very interesting statistics on phone usage.
-
-* [Being a Developer After
-    40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.ez548ytd9)
-    by Adrian Kosmaczewski
-
-    While I've a ways to go before I'm able to write a similarly titled article,
-    I found this to be a very illuminating read. Mr. Kosmaczewski talks about
-    the growth of his own career and shares some advice on what has helped him
-    find success and satisfaction.
-
-* [How Technology Hijacks People's
-    Minds](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.r3d5qvcto)
-    by Tristan Harris
-
-    Mr. Harris, a former design ethicist at Google, details several ways that a
-    piece of software influences its users that are easy to miss. Personally, I
-    think this should be required reading for anyone that develops software for
-    non-personal use. It's also fascinating from the point of view of anyone
-    that uses software (like you must be if you're reading this note).
 
 * [Why Google Stores Billions of Lines of Code in a Single
     Repository](http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
@@ -73,26 +158,7 @@ requests are welcome, though forking your own repo likely makes more sense.
     future of the iPhone. It ended up being a very interesting description about
     how the iPhone is (or might be) manufactured.
 
-* [(Calculus) is at the Heart of the STEM Gender
-    Gap](http://www.huffingtonpost.com/entry/calculus-stem-gender-gap_us_57a1b9eee4b0e2e15eb7df83)
-    by Dominique Mosbergen
-
-    This article summarizes research that details at least one reason why women
-    are underrepresented in STEM professions. It contains some very interesting
-    information that I haven't seen elsewhere.
-
 ## Politics
-
-* [Who are all these Trump
-    supporters?](http://www.newyorker.com/magazine/2016/07/11/george-saunders-goes-to-trump-rallies)
-    by George Saunders
-
-    Regardless of your affiliation, there will always be other people at each
-    and every other point along the political spectrum. Disagreement--even
-    complete and total disagreement--is inevitable. In this article, Saunders
-    attempts to form a bridge between the two major American political parties
-    during the 2016 election. While I don't believe he's entirely successful, I
-    felt that he came closer than most.
 
 * [How Half of America Lost its F**cking
     Mind](http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/)
@@ -100,16 +166,6 @@ requests are welcome, though forking your own repo likely makes more sense.
 
     A rather politically incorrect description of the divide between the voter
     base of each of the American political parties.
-
-* [Why We're Living in the Age of
-    Fear](http://www.rollingstone.com/politics/features/why-were-living-in-the-age-of-fear-w443554)
-    by Neil Strauss
-
-    Even though we're living in what is essentially the statistically safest
-    time in human history, we're presented with a lot of information that
-    implies the opposite. This article details how our brains respond to that
-    fear and how it can quickly change our opinions and values without our
-    realization.
 
 * [How to Listen When You
     Disagree](http://urbanconfessional.org/blog/howtodisagree) by Benjamin
@@ -122,30 +178,43 @@ requests are welcome, though forking your own repo likely makes more sense.
     change, but he was able to gain a better understanding of his acquaintance's
     humanity, which I think is incredibly important.
 
+* [Who are all these Trump
+    supporters?](http://www.newyorker.com/magazine/2016/07/11/george-saunders-goes-to-trump-rallies)
+    by George Saunders
+
+    Regardless of your affiliation, there will always be other people at each
+    and every other point along the political spectrum. Disagreement--even
+    complete and total disagreement--is inevitable. In this article, Saunders
+    attempts to form a bridge between the two major American political parties
+    during the 2016 election. While I don't believe he's entirely successful, I
+    felt that he came closer than most.
+
+* [Why We're Living in the Age of
+    Fear](http://www.rollingstone.com/politics/features/why-were-living-in-the-age-of-fear-w443554)
+    by Neil Strauss
+
+    Even though we're living in what is essentially the statistically safest
+    time in human history, we're presented with a lot of information that
+    implies the opposite. This article details how our brains respond to that
+    fear and how it can quickly change our opinions and values without our
+    realization.
+
 ## Other
 
-* [If you’re 30% through your life, you’re likely 90% through your best
-    relationships](http://qz.com/572284/the-tail-end/?utm_source=parVC) by Tim
-    Urban
+* [I Followed My Stolen iPhone Across the World, Became a Celebrity in China and
+    Found a Friend for
+    Life](https://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr?utm_term=.yjyAkzOkz#.agDMqO3qO)
 
-    This details a great number of ways to measure the passing of one's life. At
-    first, it can be a bit disconcerting, but it gave me a great deal to reflect
-    upon.
+    I think the title does a great job of describing the content of this
+    article. It's a very fascinating tale.
 
-* [How to be mediocre and be happy with
-    yourself](http://www.bbc.com/news/business-37108240) by Manuela Saragosa
+* [I Got Arrested in Kazahkstan and Represented Myself in
+    Court](https://medium.com/art-marketing/i-got-arrested-in-kazakhstan-and-represented-myself-in-court-d3764fb738f1#.od05gh27x)
+    by Peretz Partensky
 
-    There can be a lot of pressure to be exceptional. While I think that's a
-    largely admirable goal, it's not feasible at scale. This is an interesting
-    read that talks about both exceptionalism and mediocrity.
-
-* [How Trees Calm
-    Us](http://www.newyorker.com/tech/elements/what-is-a-tree-worth) by Alex
-    Hutchinson
-
-    I'm always amazed by how much my mood improves when I'm working in a room
-    with a window. This article details some of the ways that trees and other
-    aspects of nature can impact us.
+    I never expected a story about getting arrested in a country I know fairly
+    little about to make me want to visit that country until I read this
+    account.
 
 * [The Most Exclusive Restaurant in
     America](http://www.newyorker.com/magazine/2016/08/29/damon-baehrel-the-most-exclusive-restaurant-in-america?intcid=mod-most-popular)
@@ -159,28 +228,12 @@ requests are welcome, though forking your own repo likely makes more sense.
     it describes a man and a restaurant that seem entirely unique (for better or
     for worse).
 
-* [The Write Stuff: How the Humble Pencil Conquered the
-    World](http://www.popularmechanics.com/technology/a21567/history-of-the-pencil/)
-    by Jonathan Schifman
+* [The New Science of
+    Cute](https://www.theguardian.com/world/2016/jul/19/kumamon-the-new-science-of-cute)
+    by Neil Steinberg
 
-    The history of things that I tend to take for granted always fascinates me.
-    Mr. Schifman goes into a good amount of detail about the development and
-    evolution of one of my favorite tools: the pencil.
-
-* [Why It Doesn't Pay to be a
-    People-Pleaser](http://greatergood.berkeley.edu/article/item/why_it_doesnt_pay_to_be_a_people_pleaser)
-    by Christine Carter
-
-    I feel that there's a lot of applicable wisdom in this article. In
-    particular, recognizing the difference between pleasing and helping people
-    has been very helpful to me.
-
-* [I Followed My Stolen iPhone Across the World, Became a Celebrity in China and
-    Found a Friend for
-    Life](https://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr?utm_term=.yjyAkzOkz#.agDMqO3qO)
-
-    I think the title does a great job of describing the content of this
-    article. It's a very fascinating tale.
+    Concentrating on Kumamon, the mascot of the Kumamoto province in Japan, this
+    article talks about what we find cute and why.
 
 * [Why Red Means Red in Almost Every
     Language](http://nautil.us/issue/26/color/why-red-means-red-in-almost-every-language)
@@ -189,48 +242,10 @@ requests are welcome, though forking your own repo likely makes more sense.
     An interesting read on how linguistics, culture and perception are all
     interrelated.
 
-* [Habits of Highly Mathematical
-    People](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e#.nznvwv7cj)
-    by Jeremy Kun
+* [The Write Stuff: How the Humble Pencil Conquered the
+    World](http://www.popularmechanics.com/technology/a21567/history-of-the-pencil/)
+    by Jonathan Schifman
 
-    A common question in math classrooms across the country is "When will I ever
-    use this?" Mr. Kun describes several ways in which a mathematical education
-    comes in handy in life (even if the specific problems encountered in the
-    classroom don't seem entirely relevant).
-
-* [The Downside of Being
-    Happy](https://www.washingtonpost.com/news/wonk/wp/2016/07/25/why-happiness-might-be-getting-in-the-way-of-your-artistic-brilliance/)
-    by Ana Swanson
-
-    In many ways, it seems that a life full of eternal, unwavering happiness
-    would be utopian. However, there are some advantages to experiencing the
-    full range of human emotion.
-
-* [The New Science of
-    Cute](https://www.theguardian.com/world/2016/jul/19/kumamon-the-new-science-of-cute)
-    by Neil Steinberg
-
-    Concentrating on Kumamon, the mascot of the Kumamoto province in Japan, this
-    article talks about what we find cute and why.
-
-* [I Got Arrested in Kazahkstan and Represented Myself in
-    Court](https://medium.com/art-marketing/i-got-arrested-in-kazakhstan-and-represented-myself-in-court-d3764fb738f1#.od05gh27x)
-    by Peretz Partensky
-
-    I never expected a story about getting arrested in a country I know fairly
-    little about to make me want to visit that country until I read this
-    account.
-
-* [Google’s former happiness guru developed a three-second brain exercise for
-    finding joy](http://qz.com/818998/googles-former-happiness-guru-developed-a-three-second-brain-exercise-for-finding-joy/)
-    by Lila MacLellan
-
-    It can be easy to overwhelmed, but it can also be remarkably easy to find
-    small moments of happiness.
-
-* [Behind Our Anxiety, the Fear of Being
-    Unneeded](http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html?_r=0)
-    by the Dalai Lama and Arthur C. Brooks
-
-    The Dalai Lama writes about why he believes there is such discontent and
-    unhappiness in a remarkably safe world.
+    The history of things that I tend to take for granted always fascinates me.
+    Mr. Schifman goes into a good amount of detail about the development and
+    evolution of one of my favorite tools: the pencil.

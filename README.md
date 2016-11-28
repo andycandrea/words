@@ -177,6 +177,14 @@ requests are welcome, though forking your own repo likely makes more sense.
     hers. After hearing her reasoning, his opinion of the topic likely did not
     change, but he was able to gain a better understanding of his acquaintance's
     humanity, which I think is incredibly important.
+    
+* [Research says there are ways to reduce racial bias. Calling people racist is 
+    not one of them](http://www.vox.com/identities/2016/11/15/13595508/racism-trump-research-study)
+    by German Lopez
+    
+    Having a productive conversation about the various "-isms" with someone of 
+    different viewpoints can be extremely difficult. This article, as well as the
+    research it summarizes, shows that it can still be entirely possible.
 
 * [Who are all these Trump
     supporters?](http://www.newyorker.com/magazine/2016/07/11/george-saunders-goes-to-trump-rallies)

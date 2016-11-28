@@ -20,8 +20,8 @@ requests are welcome, though forking your own repo likely makes more sense.
 
     This shares some content with *Leonard Cohen Makes it Darker*, but it
     concentrates more on the story of Cohen's performance at the Isle of Wight
-    in 1970. That performance--including his introductory remarks transcribed in
-    the article--can be heard on Spotify
+    in 1970. That performance—including his introductory remarks transcribed in
+    the article—can be heard on Spotify
     [here](https://open.spotify.com/album/30juFhWr8RPtDT75soYnJb).
 
 ## Life/Philosophy
@@ -78,8 +78,8 @@ requests are welcome, though forking your own repo likely makes more sense.
 
     No matter what metric I use, I've never been able to get over just how
     *huge* the Internet is. From the billions of users to the millions of
-    exabytes of data to the innumerable number of things I can inform--or
-    misinform--myself about with only a few keystrokes, its impact and
+    exabytes of data to the innumerable number of things I can inform—or
+    misinform—myself about with only a few keystrokes, its impact and
     potential is mind-boggling. Unfortunately, that impact isn't always a good
     thing. Mr. Sullivan talks about the positive and negative impacts that
     "living-in-the-web" had on his life and how he attempted to find balance
@@ -183,8 +183,8 @@ requests are welcome, though forking your own repo likely makes more sense.
     by George Saunders
 
     Regardless of your affiliation, there will always be other people at each
-    and every other point along the political spectrum. Disagreement--even
-    complete and total disagreement--is inevitable. In this article, Saunders
+    and every other point along the political spectrum. Disagreement—even
+    complete and total disagreement—is inevitable. In this article, Saunders
     attempts to form a bridge between the two major American political parties
     during the 2016 election. While I don't believe he's entirely successful, I
     felt that he came closer than most.

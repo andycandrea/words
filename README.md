@@ -47,6 +47,14 @@ requests are welcome, though forking your own repo likely makes more sense.
 
     It can be easy to overwhelmed, but it can also be remarkably easy to find
     small moments of happiness.
+    
+* [The Great Self-Esteem Con](https://www.theguardian.com/lifeandstyle/2017/jun/03/quasi-religious-great-self-esteem-con)
+    by Will Storr
+    
+    An interesting history on how society began to prioritize self-esteem. It
+    details how a lot of the reasoning for self-esteem was manufactured by
+    misrepresenting scientific evidence and how it appears the importance of
+    self-esteem in modern society may be setting us back.
 
 * [Habits of Highly Mathematical
     People](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e#.nznvwv7cj)
@@ -63,6 +71,13 @@ requests are welcome, though forking your own repo likely makes more sense.
     There can be a lot of pressure to be exceptional. While I think that's a
     largely admirable goal, it's not feasible at scale. This is an interesting
     read that talks about both exceptionalism and mediocrity.
+
+* [How to Sleep](https://www.theatlantic.com/magazine/archive/2017/01/how-to-sleep/508781/)
+    by James Hamblin
+    
+    Based on my experiences, sleeping troubles seem to plague an increasingly
+    large number of people. Reading this won't fix any of those problems, but
+    I think it's a good start on being informed.
 
 * [How Trees Calm
     Us](http://www.newyorker.com/tech/elements/what-is-a-tree-worth) by Alex
@@ -92,6 +107,13 @@ requests are welcome, though forking your own repo likely makes more sense.
     This details a great number of ways to measure the passing of one's life. At
     first, it can be a bit disconcerting, but it gave me a great deal to reflect
     upon.
+    
+* [The Tragedy of Men](https://www.theatlantic.com/entertainment/archive/2017/05/the-tragedy-of-men/528588/)
+    by Sophie Gilbert
+    
+    A review of _The Descent of Men_ by Grayson Perry. While I haven't read said
+    book (yet!), this provides a very compelling summary about the modern notion of
+    masculinity, how it's out of date and how it negatively impacts both men and women.
 
 * [Why It Doesn't Pay to be a
     People-Pleaser](http://greatergood.berkeley.edu/article/item/why_it_doesnt_pay_to_be_a_people_pleaser)
@@ -119,6 +141,14 @@ requests are welcome, though forking your own repo likely makes more sense.
     This article summarizes research that details at least one reason why women
     are underrepresented in STEM professions. It contains some very interesting
     information that I haven't seen elsewhere.
+    
+* [Get your loved ones off Facebook](http://www.salimvirani.com/facebook/)
+    by Salim Virani
+  
+    Facebook is one of the largest, most well-known companies in the digital era.
+    Unfortunately, not all of their actions have been beneficial or well-publicized.
+    I think this is a valuable read just so you know what you're getting into when
+    you use Facebook.
 
 * [How Technology Hijacks People's
     Minds](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.r3d5qvcto)
